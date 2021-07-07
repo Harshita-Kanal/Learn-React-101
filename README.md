@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+A repository to learn react concepts, components, props, states, hooks, consuming APIs and integrating with Firebase ✨ <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
